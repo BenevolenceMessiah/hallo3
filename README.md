@@ -74,7 +74,7 @@ Visit our [project page](https://fudan-generative-vision.github.io/hallo3/#/) to
 Download the codes:
 
 ```bash
-  git clone https://github.com/fudan-generative-vision/hallo3
+  git clone https://github.com/BenevolenceMessiah/hallo3
   cd hallo3
 ```
 
